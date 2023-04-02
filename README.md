@@ -1,6 +1,6 @@
 # About template
 
-This template is made based on React.js, Vite, TypeScript, Styled-components and Redux (optionally).
+This template is made based on React.js, Vite, TypeScript and Redux (optionally).
 
 ## Usage
 
